@@ -1,0 +1,8 @@
+C:\Users\HP\OneDrive\Рабочий стол\Учеба\SchetVBanke\SchetVBanke\bin\Debug\SchetVBanke.exe.config
+C:\Users\HP\OneDrive\Рабочий стол\Учеба\SchetVBanke\SchetVBanke\bin\Debug\SchetVBanke.exe
+C:\Users\HP\OneDrive\Рабочий стол\Учеба\SchetVBanke\SchetVBanke\bin\Debug\SchetVBanke.pdb
+C:\Users\HP\OneDrive\Рабочий стол\Учеба\SchetVBanke\SchetVBanke\obj\Debug\SchetVBanke.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Рабочий стол\Учеба\SchetVBanke\SchetVBanke\obj\Debug\SchetVBanke.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\OneDrive\Рабочий стол\Учеба\SchetVBanke\SchetVBanke\obj\Debug\SchetVBanke.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Рабочий стол\Учеба\SchetVBanke\SchetVBanke\obj\Debug\SchetVBanke.exe
+C:\Users\HP\OneDrive\Рабочий стол\Учеба\SchetVBanke\SchetVBanke\obj\Debug\SchetVBanke.pdb
